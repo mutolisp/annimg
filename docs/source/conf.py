@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = '數位資源回收器 (AnnImg)'
+project = u'數位資源回收器 (AnnImg)'
 copyright = '2017, G.-S. Mai & C.-T. Lin'
 author = 'G.-S. Mai & C.-T. Lin'
 
