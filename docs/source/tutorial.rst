@@ -5,6 +5,9 @@
 給初學者的 How-To
 ******************
 
+`操作範例(Google Docs) <https://docs.google.com/document/d/1fHMWvXebKIUgQ7lPQf0rIeHkWSB4ao5CXeeBg5ZPtYg/edit?usp=sharing>`_
+
+
 1. 安裝
 =======
 
