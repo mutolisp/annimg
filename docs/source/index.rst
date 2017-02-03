@@ -3,14 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Digital Resource Recycler (AnnImg)'s documentation!
-==========================================================
+數位資源回收器(AnnImg)說明文件
+==============================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    tutorial.rst
+
+   shortcuts.rst
 
 索引
 ====
